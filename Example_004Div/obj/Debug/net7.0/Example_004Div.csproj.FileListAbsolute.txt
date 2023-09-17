@@ -1,0 +1,14 @@
+C:\Users\ibrae\Desktop\examples\Example_004Div\bin\Debug\net7.0\Example_004Div.exe
+C:\Users\ibrae\Desktop\examples\Example_004Div\bin\Debug\net7.0\Example_004Div.deps.json
+C:\Users\ibrae\Desktop\examples\Example_004Div\bin\Debug\net7.0\Example_004Div.runtimeconfig.json
+C:\Users\ibrae\Desktop\examples\Example_004Div\bin\Debug\net7.0\Example_004Div.dll
+C:\Users\ibrae\Desktop\examples\Example_004Div\bin\Debug\net7.0\Example_004Div.pdb
+C:\Users\ibrae\Desktop\examples\Example_004Div\obj\Debug\net7.0\Example_004Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrae\Desktop\examples\Example_004Div\obj\Debug\net7.0\Example_004Div.AssemblyInfoInputs.cache
+C:\Users\ibrae\Desktop\examples\Example_004Div\obj\Debug\net7.0\Example_004Div.AssemblyInfo.cs
+C:\Users\ibrae\Desktop\examples\Example_004Div\obj\Debug\net7.0\Example_004Div.csproj.CoreCompileInputs.cache
+C:\Users\ibrae\Desktop\examples\Example_004Div\obj\Debug\net7.0\Example_004Div.dll
+C:\Users\ibrae\Desktop\examples\Example_004Div\obj\Debug\net7.0\refint\Example_004Div.dll
+C:\Users\ibrae\Desktop\examples\Example_004Div\obj\Debug\net7.0\Example_004Div.pdb
+C:\Users\ibrae\Desktop\examples\Example_004Div\obj\Debug\net7.0\Example_004Div.genruntimeconfig.cache
+C:\Users\ibrae\Desktop\examples\Example_004Div\obj\Debug\net7.0\ref\Example_004Div.dll
