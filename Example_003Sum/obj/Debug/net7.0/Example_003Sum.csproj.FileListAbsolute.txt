@@ -1,0 +1,14 @@
+C:\Users\ibrae\Desktop\examples\Example_003Sum\bin\Debug\net7.0\Example_003Sum.exe
+C:\Users\ibrae\Desktop\examples\Example_003Sum\bin\Debug\net7.0\Example_003Sum.deps.json
+C:\Users\ibrae\Desktop\examples\Example_003Sum\bin\Debug\net7.0\Example_003Sum.runtimeconfig.json
+C:\Users\ibrae\Desktop\examples\Example_003Sum\bin\Debug\net7.0\Example_003Sum.dll
+C:\Users\ibrae\Desktop\examples\Example_003Sum\bin\Debug\net7.0\Example_003Sum.pdb
+C:\Users\ibrae\Desktop\examples\Example_003Sum\obj\Debug\net7.0\Example_003Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrae\Desktop\examples\Example_003Sum\obj\Debug\net7.0\Example_003Sum.AssemblyInfoInputs.cache
+C:\Users\ibrae\Desktop\examples\Example_003Sum\obj\Debug\net7.0\Example_003Sum.AssemblyInfo.cs
+C:\Users\ibrae\Desktop\examples\Example_003Sum\obj\Debug\net7.0\Example_003Sum.csproj.CoreCompileInputs.cache
+C:\Users\ibrae\Desktop\examples\Example_003Sum\obj\Debug\net7.0\Example_003Sum.dll
+C:\Users\ibrae\Desktop\examples\Example_003Sum\obj\Debug\net7.0\refint\Example_003Sum.dll
+C:\Users\ibrae\Desktop\examples\Example_003Sum\obj\Debug\net7.0\Example_003Sum.pdb
+C:\Users\ibrae\Desktop\examples\Example_003Sum\obj\Debug\net7.0\Example_003Sum.genruntimeconfig.cache
+C:\Users\ibrae\Desktop\examples\Example_003Sum\obj\Debug\net7.0\ref\Example_003Sum.dll
