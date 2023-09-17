@@ -1,0 +1,14 @@
+C:\Users\ibrae\Desktop\examples\examples_001HelloWorld\bin\Debug\net7.0\examples_001HelloWorld.exe
+C:\Users\ibrae\Desktop\examples\examples_001HelloWorld\bin\Debug\net7.0\examples_001HelloWorld.deps.json
+C:\Users\ibrae\Desktop\examples\examples_001HelloWorld\bin\Debug\net7.0\examples_001HelloWorld.runtimeconfig.json
+C:\Users\ibrae\Desktop\examples\examples_001HelloWorld\bin\Debug\net7.0\examples_001HelloWorld.dll
+C:\Users\ibrae\Desktop\examples\examples_001HelloWorld\bin\Debug\net7.0\examples_001HelloWorld.pdb
+C:\Users\ibrae\Desktop\examples\examples_001HelloWorld\obj\Debug\net7.0\examples_001HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrae\Desktop\examples\examples_001HelloWorld\obj\Debug\net7.0\examples_001HelloWorld.AssemblyInfoInputs.cache
+C:\Users\ibrae\Desktop\examples\examples_001HelloWorld\obj\Debug\net7.0\examples_001HelloWorld.AssemblyInfo.cs
+C:\Users\ibrae\Desktop\examples\examples_001HelloWorld\obj\Debug\net7.0\examples_001HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\ibrae\Desktop\examples\examples_001HelloWorld\obj\Debug\net7.0\examples_001HelloWorld.dll
+C:\Users\ibrae\Desktop\examples\examples_001HelloWorld\obj\Debug\net7.0\refint\examples_001HelloWorld.dll
+C:\Users\ibrae\Desktop\examples\examples_001HelloWorld\obj\Debug\net7.0\examples_001HelloWorld.pdb
+C:\Users\ibrae\Desktop\examples\examples_001HelloWorld\obj\Debug\net7.0\examples_001HelloWorld.genruntimeconfig.cache
+C:\Users\ibrae\Desktop\examples\examples_001HelloWorld\obj\Debug\net7.0\ref\examples_001HelloWorld.dll
